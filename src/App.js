@@ -34,7 +34,7 @@ function App() {
   }, [query, units])
 
   return (
-    <div className='min-h-screen px-5 bg-gradient-to-br from-cyan-700 to-blue-700'>
+    <div className='min-h-screen px-5 bg-gradient-to-br from-slate-700 to-slate-900'>
       <div className='backgroundImgDiv'>
         <div className="mx-auto max-w-screen-md py-5 px-32  h-fit">
           <TopBrandBar />
